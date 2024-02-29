@@ -1,0 +1,9 @@
+header{
+    background-color: rgb(38, 38, 138);
+    color: black;
+}
+
+.cabecalho-imagem{
+    border: radius 40px;
+    width: 40%;
+}
